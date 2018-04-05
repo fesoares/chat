@@ -1,2 +1,3 @@
 # chat
-Chat com node-js socket.io 
+Chat em tempo real com node-js e socket.io 
+Aula - RocketSeat
